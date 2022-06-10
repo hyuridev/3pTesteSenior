@@ -1,8 +1,10 @@
-# Criar sistema com authenticação e crud de usuários
+# Teste vaga Senior 3p Brasil
 
 <p align="center">
-<img width="100" src="https://3pbrasil.com.br/wp-content/uploads/2020/06/logo_3pbrasil_dark_v2.svg"/>
+<img width="300" src="https://3pbrasil.com.br/wp-content/uploads/2020/06/logo_3pbrasil_dark_v2.svg"/>
 </p>
+
+# Criar sistema com authenticação e crud de usuários
 
 ## Índice 
 
