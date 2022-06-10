@@ -33,4 +33,14 @@
 
 **Projeto sera simples , mas sera avaliado no projeto a execução, organização, padrões de projeto**
 
+O projeto sera sera uma crud de usuários simples. Somente o nivel de usuario admin pode adicionar , deletar , listar, alterar e visualizar detalhes do usuario. o usuário comum pode visualizar somente seus dados pessoais.
+
+Para acessar o sistema, existirá uma authenticação com os dois niveis de usuarios ( admin e usuário comum ).
+
+No Back-End terá que ser node + typescript. Auth será um microservico e Crud de usuários outro microservico. Os dois microserviços terão que funcionar com Kubernetes ( no local seria minikube ) + Kafka.
+
+No Front-End não precisa de microserviço, precisa ser somente em vue.
+
+## 🧰 Obrigat´roio
+
 
