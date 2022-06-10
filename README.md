@@ -41,6 +41,22 @@ No Back-End terá que ser node + typescript. Auth será um microservico e Crud d
 
 No Front-End não precisa de microserviço, precisa ser somente em vue.
 
-## 🧰 Obrigat´roio
+## 🧰 Obrigatório
+
+**Itens abaixo é obrigatório**
+
+È obrigatório uso de microservicos com kubernetes , kafka, node, typescript, vue, SOLID.
+
+## 🧰 Atenção
+
+Na hora da entrevista técnica, voçê deverá apresentar o projeto funcionando.
+
+## 🧰 Conclusão
+
+Essa parte é muito importante para processo, antes da entrevista , o github terá estar atualizado atualizado.
+
+
+
+
 
 
