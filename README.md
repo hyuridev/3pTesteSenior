@@ -17,11 +17,20 @@
 * [Atenção](#atenco)
 * [Conclusão](#conclusao)
 
+<div id="tecnologias" >
+## 🚀 Tencologias
 
-## 📁 Acesso ao projeto
+* Node
+* Typescript
+* Vue
+* Jest    
+* Kubernetes
+* Kafka    
+    
+</div>
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+## 🧰 Descrição
 
-## 🛠️ Abrir e rodar o projeto
+**Projeto sera simples , mas sera avaliado no projeto a execução, organização, padrões de projeto**
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+
